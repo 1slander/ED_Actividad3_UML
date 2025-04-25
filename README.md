@@ -1,6 +1,12 @@
 # Entornos de Desarrollo Actividad 3: Sitema gestor de un torneo eSports
 
+#### Autor
+
 ##### Hector Gonzalez Mendez
+
+#### [Github Profile] (https://github.com/1slander/)
+
+#### [Proyecto] (https://github.com/1slander/torneo-esport-uml)
 
 Grado Superior en Desarrollo de aplicaciones Web - UNIR 2024/2025
 
@@ -26,7 +32,7 @@ Definimos a los actores principales como:
 
 ## 2. Identificación y elaboración de dagrama:
 
-![Image de Diagrama de caso](./img/UMLCASE.png)
+![Image de Diagrama de caso](./diagrams/caso-uso.png)
 
 ## 3. Identificación de clases y relaciones:
 
@@ -50,7 +56,7 @@ Definimos a los actores principales como:
 
 ## 4. Diagrama de clase:
 
-![Imagen de diagrama de clase](./img/UMLCLASS.png)
+![Imagen de diagrama de clase](./diagrams/clase.png)
 
 ## 5. Conclusión:
 
